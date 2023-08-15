@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redsun98
-- 👀 I’m an IT technician looking to start my career in cybersecurity, with particular interests in penetration-testing, SIEM, and Incident response.
-- 🌱 I’m currently learning Python, Bash, and studying to get my Security+ certification.
+- 👀 I’m an IT technician pivotting into cybersecurity, with particular interests in penetration-testing, digital forensics, and incident response.
+- 🌱 I’m currently learning Python, Bash, and studying to get my CySA+ certification.
 - 💞️ Currently not working on any projects at the moment.
 - 📫 I can be reached here @redsun98, and on Twitter @AurelianKnight
 
